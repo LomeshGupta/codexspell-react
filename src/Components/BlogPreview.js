@@ -74,6 +74,9 @@ const BlogSection = () => {
       container
       spacing={4}
       sx={{
+        pt: isMobile && 13,
+        pb: isMobile && 0,
+        mb: isMobile && 0,
         px: isMobile ? 2 : 14,
         marginTop: isMobile ? "20%" : 0,
         alignItems: "flex-start",

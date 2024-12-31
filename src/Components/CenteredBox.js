@@ -26,7 +26,7 @@ const NewsletterSignup = () => {
   };
 
   return (
-    <Box marginTop={{ xs: 24, md: 0 }} padding={{ md: 8, xs: 2 }}>
+    <Box marginTop={{ xs: 5, md: 0 }} padding={{ md: 8, xs: 2 }}>
       <Box
         sx={{
           position: "relative",
