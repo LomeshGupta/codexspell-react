@@ -36,10 +36,9 @@ export default function OverviewPage() {
             color="textSecondary"
             sx={{ marginTop: "40px", maxWidth: "800px", margin: "auto" }}
           >
-            US Enterprises is a leading provider of innovative technology
-            solutions, specializing in website development, web and mobile
-            application development, project management, cloud services, and ERP
-            solutions.
+            CodeXspell is a leading provider of innovative technology solutions,
+            specializing in website development, web and mobile application
+            development, project management, cloud services, and ERP solutions.
           </Typography>
         </Box>
       </Fade>
@@ -309,7 +308,7 @@ export default function OverviewPage() {
               </TimelineSeparator>
               <TimelineContent>
                 <Typography variant="h6" color="textSecondary">
-                  2022: Established US Enterprises
+                  2022: Established CodeXspell
                 </Typography>
               </TimelineContent>
             </TimelineItem>
