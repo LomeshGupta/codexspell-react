@@ -68,7 +68,7 @@ const HeroSection = React.memo(() => {
     >
       <Box
         sx={{
-          mb: 8,
+          pb: 5,
           position: "relative",
           height: "100%",
           backgroundImage: `url(${bg1})`,
