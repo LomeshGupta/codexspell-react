@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Salesforce to purchase workplace-chat tool Slack for nearly $28 billion.",
+    "description": "Slack has become indispensable for many businesses operating remotely during the pandemic.",
+    "date": "02 Dec 20"
+  },
+  {
+    "id": 2,
+    "title": "Biden’s economic team poised to challenge GOP’s renewed debt worries.",
+    "description": "The president’s ultimatum targeting the digital protections, known as Section 230.",
+    "date": "01 Dec 20"
+  },
+  {
+    "id": 3,
+    "title": "More than half of emergency small-business funds went to larger businesses.",
+    "description": "I neglect my talents far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+    "date": "28 Nov 20"
+  },
+  {
+    "id": 4,
+    "title": "Tech companies rally against new trade restrictions in Asia.",
+    "description": "Major tech firms voice concerns about rising regulatory hurdles across Asian markets.",
+    "date": "15 Dec 20"
+  },
+  {
+    "id": 5,
+    "title": "New AI models revolutionize predictive analytics in healthcare.",
+    "description": "Advancements in artificial intelligence are paving the way for groundbreaking medical research.",
+    "date": "10 Dec 20"
+  },
+  {
+    "id": 6,
+    "title": "Global carbon emissions dropped by 7% in 2020, the largest decline on record.",
+    "description": "A direct impact of reduced industrial activity during the COVID-19 pandemic.",
+    "date": "25 Dec 20"
+  },
+  {
+    "id": 7,
+    "title": "Remote work shifts corporate strategies for good.",
+    "description": "More companies are rethinking traditional office spaces and work-life balance policies.",
+    "date": "20 Dec 20"
+  },
+  {
+    "id": 8,
+    "title": "Electric vehicles surpass 10% of global car sales for the first time.",
+    "description": "A milestone for the EV industry amidst increasing focus on renewable energy solutions.",
+    "date": "18 Dec 20"
+  },
+  {
+    "id": 9,
+    "title": "Cryptocurrency sees explosive growth as Bitcoin crosses $40,000.",
+    "description": "Investors flock to digital currencies amidst market volatility and inflation fears.",
+    "date": "30 Dec 20"
+  },
+  {
+    "id": 10,
+    "title": "Scientists unveil a new species of dinosaur found in the Sahara Desert.",
+    "description": "The discovery sheds light on the biodiversity of the region during the Cretaceous period.",
+    "date": "05 Jan 21"
+  },
+  {
+    "id": 11,
+    "title": "Renewable energy capacity hits record growth in 2020.",
+    "description": "Solar and wind power projects drive significant strides in sustainable energy adoption.",
+    "date": "22 Dec 20"
+  },
+  {
+    "id": 12,
+    "title": "Streaming services report record subscriber growth in 2020.",
+    "description": "The entertainment industry sees a massive shift as consumers move online.",
+    "date": "29 Dec 20"
+  },
+  {
+    "id": 13,
+    "title": "Advancements in quantum computing open new frontiers for research.",
+    "description": "Scientists and engineers continue to push the limits of computational power.",
+    "date": "12 Dec 20"
+  },
+  {
+    "id": 14,
+    "title": "Ocean cleanup projects remove 50% more waste in 2020.",
+    "description": "Efforts to combat plastic pollution achieve significant progress worldwide.",
+    "date": "08 Dec 20"
+  },
+  {
+    "id": 15,
+    "title": "NASA prepares for the next phase of the Artemis lunar mission.",
+    "description": "Ambitious plans to return humans to the Moon take a major step forward.",
+    "date": "03 Jan 21"
+  }
+]
