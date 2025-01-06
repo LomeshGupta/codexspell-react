@@ -154,7 +154,7 @@ const ContactFormCard = () => {
                     color="primary"
                   />
                 }
-                label="Free Events related information for businesses sent every month? Sign me up!"
+                label="Free Tech related information for businesses sent every month? Sign me up!"
               />
             </Grid>
           </Grid>
@@ -191,16 +191,16 @@ const ContactFormCard = () => {
         </Typography>
         <br />
         <Typography variant="body1" gutterBottom>
-          Email: Contact@puranshievents.com
+          Email: Contact@codexspell.com
         </Typography>
         <Typography variant="body1" gutterBottom>
-          Phone: 9876543210, 9876543210
+          Phone: 8527374584
         </Typography>
         <Typography variant="h5" gutterBottom>
           Address
         </Typography>
         <Typography variant="body1" gutterBottom>
-          Example District, Sample City, New Delhi-110019
+          Faridabad, 121004
         </Typography>
       </CardContent>
       <ToastContainer />
