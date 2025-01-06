@@ -88,7 +88,7 @@ const ContactFormCard = () => {
           Send a{" "}
           <spna style={{ color: "#996515", fontWeight: "500" }}>Message</spna>
         </Typography>
-        <form ref={form} onSubmit={handleSubmit}>
+        <form name="contact" netlify>
           <Grid container spacing={1} padding="20px">
             <Grid item xs={12}>
               <TextField
